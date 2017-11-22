@@ -9,7 +9,7 @@ What's new :<br>
   color camera in RGB support<br>
   full camera speed support<br>
   multi-cam-management<br>
-  data transfert bandwith display<br>
+  data transfert bandwidth display<br>
   subsampling management<br>
   auto shutter<br>
   snap/video acquisition<br>
