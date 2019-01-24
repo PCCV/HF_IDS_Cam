@@ -3,7 +3,7 @@ High Frequency IDS Camera Capture for ImageJ
 
 Please visit http://pccv.univ-tours.fr/ImageJ/HF_IDS_Cam/ to download and for more information<br>
 <br>
-A new version with more options and more controls is coming soon ... <br>
+Version 1.2 <br>
 What's new :<br>
   16/32 bits grey levels support<br>
   color camera in RGB support<br>
